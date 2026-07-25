@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Project
+uploads/
+*.log
+*.pcap
+*.pcapng
+app/reports/
+reports/
+*.html
+*.pdf
+*.json
+*.md
+
+# Environment
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite
