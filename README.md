@@ -306,7 +306,12 @@ Install Dependencies
 pip install -r requirement.txt
 
 Install Ollama
-
 curl -fsSL https://ollama.ai/install.sh | sh
+```
+### Step 2: Run the code
+1. If you want run on terminal version use :- python3 run.py
+2. If you want run on web apps then:- python3 web_app.py 
+
+
 
 
